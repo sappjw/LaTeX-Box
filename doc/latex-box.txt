@@ -471,7 +471,7 @@ A: Instead of putting the settings in your ~/.latexmkrc file, put them in your
 
 Q: How can I specify the main TeX file for a multi-file document
 
-A: There are serverl ways to do this:
+A: There are several ways to do this:
 
    1. Add a comment to the first few lines of your file to specify this: >
 	%! TEX root = main.tex
